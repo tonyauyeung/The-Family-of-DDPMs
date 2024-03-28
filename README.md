@@ -24,6 +24,22 @@ DDPM             |  IDDPM
 <img width="603" alt="image" src="https://github.com/tonyauyeung/The-Family-of-DDPMs/assets/79797853/73f363c3-4f7a-463f-a0cb-6284fa9183fa">
 </p>
 
+## Usage
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+DDPM training:
+```bash
+python ddpm.py
+```
+
+IDDPM training:
+```bash
+python iddpm.py
+```
+
 ## Key References
 [1] Ho, J., Jain, A., and Abbeel, P. Denoising diffusion probabilistic models. Advances in neural information processing systems, 33:6840–6851, 2020.\
 [2] Song, J., Meng, C., and Ermon, S. Denoising Diffusion Implicit Models. arXiv, October 2020. doi: 10.48550/arXiv.2010.02502.\
