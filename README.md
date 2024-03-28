@@ -10,19 +10,9 @@ Emails: &nbsp;&nbsp;{jrhn2, ro352, ac2591}@cam.ac.uk
 _Denoising Diffusion Probabilistic Models_ (DDPM) are a class of generative models, inspired by non-equilibrium thermodynamics, that feature stable training regimes and are capable of producing high quality, diverse data. However, DDPMs suffer from expensive inference times compared with GANs and VAEs. Furthermore, they can't achieve competitive log-likelihoods. To solve these issues and further improve DDPMs' performace, _Denoising Diffusion Implicit Model_ (DDIM) and _Improved DDPM_ (IDDPM) have been proposed. In this paper, we systematically summarise, replicate, and compare this family of models. We show that DDPMs can generate high quality images; DDIM speed up images generation but lower sample quality; while IDDPM can speed up sampling with negligible quality reduction. Additionally, we further explore an application of DDPMs on image in-painting via _RePaint_, illustrating power of this family.
 
 ## Demo
-
-
-
-https://github.com/tonyauyeung/The-Family-of-DDPMs/assets/79797853/62e766ed-14db-496d-9520-8c8e8d12f26d
-
-
-
-https://github.com/tonyauyeung/The-Family-of-DDPMs/assets/79797853/9f3f12a9-f4a6-4fef-88dd-68383632ffd5
-
-
-
-https://github.com/tonyauyeung/The-Family-of-DDPMs/assets/79797853/affb75dc-349e-45d1-bdda-4efe5cd1f413
-
+DDPM             |  IDDPM
+:-------------------------:|:-------------------------:
+![](https://github.com/tonyauyeung/The-Family-of-DDPMs/assets/79797853/592e1095-fc7d-4b10-a471-cea57155eccd)  |  ![](https://github.com/tonyauyeung/The-Family-of-DDPMs/assets/79797853/67c35a6e-5a0e-45e2-83b6-b768655eb533)
 
 ## Samples
 <p align="center">
