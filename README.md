@@ -3,7 +3,7 @@
 This is the repo of our paper, The Family of DDPMs, @_**Cambridge-MLMI4-Advanced-Machine-Learning**_.
 
 
-Authors: [Jack Naish](https://github.com/jnaish), [Tony RuiKang OuYang](https://github.com/tonyauyeung) and [Akshay Choudhry]() @ _University of Cambridge_\
+Authors: [Jack Naish](https://github.com/jnaish), [Tony RuiKang OuYang](https://github.com/tonyauyeung) and [Akshay Choudhry](https://github.com/akshayc-01) @ _University of Cambridge_\
 Emails: &nbsp;&nbsp;{jrhn2, ro352, ac2591}@cam.ac.uk
   
 ## Abstract
